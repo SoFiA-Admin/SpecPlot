@@ -114,7 +114,9 @@ if len(sys.argv) < 3 or len(sys.argv) > 10:
 	sys.stderr.write("       for <velo> are 'cz' or 'rest' for recession velocity or source\n");
 	sys.stderr.write("       rest-frame velocity, respectively. Alternatively, if set to\n");
 	sys.stderr.write("       'freq', then no conversion will be done. If 'rest' is selected,\n");
-	sys.stderr.write("       then the centroid of the spectrum will define v = 0.\n\n");
+	sys.stderr.write("       then the centroid of the spectrum will define v = 0. Note that\n");
+	sys.stderr.write("       velocity conversion will only work correctly for the 21-cm line\n");
+	sys.stderr.write("       of neutral atomic hydrogen, as the restfrequency is hardcoded!\n\n");
 	
 	sys.stderr.write("       <rms> and <beam> must be specified for any beam correction to\n");
 	sys.stderr.write("       take place and for statistical uncertainties to be plotted as\n");
