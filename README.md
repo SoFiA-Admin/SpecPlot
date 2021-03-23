@@ -8,6 +8,12 @@ addition to the spectrum itself, SpecPlot can plot the statistical
 uncertainties in each spectral channel and automatically convert
 frequency into recession velocity or source rest-frame velocity.
 
+## Dependencies
+
+* Python 3
+* NumPy v1.17 (or higher)
+* Matplotlib v3.1 (or higher)
+
 ## Usage
 
 `SpecPlot.py <input> <output> [<velo>] [<rms> <beam>] [x_min x_max y_min y_max]`
