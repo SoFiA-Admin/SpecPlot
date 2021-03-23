@@ -8,6 +8,8 @@ addition to the spectrum itself, SpecPlot can plot the statistical
 uncertainties in each spectral channel and automatically convert
 frequency into recession velocity or source rest-frame velocity.
 
+![Example plot](example_plot.png)
+
 ## Dependencies
 
 * Python 3
