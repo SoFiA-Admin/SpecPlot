@@ -2,11 +2,7 @@
 
 ## Purpose
 
-The purpose of SpecPlot is to create publication-ready plots of the
-integrated spectra created by the SoFiA 2 source finding package. In
-addition to the spectrum itself, SpecPlot can plot the statistical
-uncertainties in each spectral channel and automatically convert
-frequency into recession velocity or source rest-frame velocity.
+The purpose of SpecPlot is to create publication-ready plots of the integrated spectra created by the [SoFiA 2](https://github.com/SoFiA-Admin/SoFiA-2) source finding package. In addition to the spectrum itself, SpecPlot can plot the statistical uncertainties in each spectral channel and automatically convert frequency into recession velocity or source rest-frame velocity.
 
 ![Example plot](example_plot.png)
 
