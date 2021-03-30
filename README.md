@@ -9,8 +9,8 @@ The purpose of SpecPlot is to create publication-ready plots of the integrated s
 ## Dependencies
 
 * Python 3
-* NumPy v1.17 (or higher)
-* Matplotlib v3.1 (or higher)
+* NumPy v1.17 (other versions might work as well)
+* Matplotlib v3.1 (other versions might work as well)
 
 ## Usage
 
